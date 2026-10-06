@@ -52,7 +52,10 @@ Footage appears in [the Flat2VR hall](https://discord.com/channels/7479671028953
 
 ## +++ THE CREED +++
 
-> **One man, one workshop, a great many nights.**
+> **One man, a forge of machines, a great many nights.**
+>
+> **Built with AI, plainly:** Claude agents write the code; I design it, direct it and test it in the headset.
+> The logo and most of my English are AI too. I have nothing to prove. Crazy times for VR, and I'm enjoying every minute.
 >
 > **The work is free, and it stays free.** Every feature, for everyone, forever.
 > A flask of sacred oil changes nothing except how late I can stay up.
