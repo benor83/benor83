@@ -8,6 +8,7 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-@MachineSpiritVR-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MachineSpiritVR)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Anoint_the_machine-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/machinespiritvr)
+[![Discord](https://img.shields.io/badge/Flat2VR-The_Hall-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/747967102895390741/1556786291138498720)
 
 </div>
 
@@ -45,6 +46,8 @@ I have spent these months ending that.
 
 **Status:** in progress. **No date** — it ships when it is worthy.
 
+Footage appears in [the Flat2VR hall](https://discord.com/channels/747967102895390741/1556786291138498720) first, then on [YouTube](https://www.youtube.com/@MachineSpiritVR).
+
 ---
 
 ## +++ THE CREED +++
@@ -61,7 +64,7 @@ in your own install, from your own files, and never leaves it.
 
 <div align="center">
 
-### 📺 [Footage](https://www.youtube.com/@MachineSpiritVR) · ☕ [Anoint the machine](https://ko-fi.com/machinespiritvr)
+### 📺 [Footage](https://www.youtube.com/@MachineSpiritVR) · 💬 [The Hall](https://discord.com/channels/747967102895390741/1556786291138498720) · ☕ [Anoint the machine](https://ko-fi.com/machinespiritvr)
 
 **The Emperor protects. The rest of you would do well to duck.**
 
